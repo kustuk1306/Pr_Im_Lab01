@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\visual studio\pr_im_lab01\pr_im_lab01\main.cpp(184): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+c:\visual studio\pr_im_lab01\pr_im_lab01\main.cpp(185): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+c:\visual studio\pr_im_lab01\pr_im_lab01\main.cpp(186): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  Создание кода
+  1 of 197 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Pr_Im_Lab01.vcxproj -> C:\Visual Studio\Pr_Im_Lab01\x64\Release\Pr_Im_Lab01.exe

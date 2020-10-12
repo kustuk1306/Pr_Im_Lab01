@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\visual studio\pr_im_lab01\pr_im_lab01\main.cpp(99): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+c:\visual studio\pr_im_lab01\pr_im_lab01\main.cpp(100): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+c:\visual studio\pr_im_lab01\pr_im_lab01\main.cpp(101): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  Pr_Im_Lab01.vcxproj -> C:\Visual Studio\Pr_Im_Lab01\x64\Debug\Pr_Im_Lab01.exe
